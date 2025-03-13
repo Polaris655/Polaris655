@@ -19,7 +19,10 @@ Specialized Testing: API Automation Testing (REST-Assured/Postman) | Performance
 
 
 ## 学习与成长
+
 测试开发修炼之路，正在不断学习中
+
+
 自动化测试 ▰▰▱▱▱▱▱▱ 20%  
 测试框架设计 ▰▱▱▱▱▱▱▱ 10%  
 缺陷定位能力 ▰▰▱▱▱▱▱▱ 20%
